@@ -17,4 +17,4 @@ If you want to generate the soundpack yourself, follow these steps:
 - Put your google project id in the .env file.
 - Put your google service account json in google-service-account.json
 - List all the sounds you want to generate in sounds/extra.csv (format: `filename;text-to-speech`)
-- Generate the sounds by running `docker run -it --rm -v "$PWD":/usr/src/app -w /usr/src/app node main.js`
+- Generate the sounds by running `docker run -it --rm -v "$PWD":/usr/src/app -w /usr/src/app node bash -c "npm install && node main.js"`

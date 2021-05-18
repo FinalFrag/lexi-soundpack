@@ -1,0 +1,74 @@
+arm;armed
+marm;motors armed
+darm;dis-armed
+mdarm;motors dis-armed
+man;manual
+manmd;manual mode
+acro;acro
+acromd;acro mode
+angl;angle
+anglmd;angle mode
+hrzn;horizon
+hrznmd;horizon mode
+crus;cruise
+crusmd;cruise mode
+ltr;loiter
+ltrmd;loiter mode
+rtl;return to launch
+wptn;waypoint
+wptnm;waypoint mission
+wptnmd;waypoint mode
+fs;failsafe
+3d;3d
+3dmd;3d mode
+3don;3d: on
+3doff;3d: off
+3dmdon;3d mode: on
+3dmdof;3d mode: off
+airmd;air mode
+airon;air mode: on
+airoff;air mode: off
+hh;heading hold
+bbon;blackbox logging: on
+bboff;blackbox logging: off
+trtl;turtle
+trtlmd;turtle mode
+rvrs;reverse
+rvrsth;reverse thrust
+althld;altitude hold
+atrmd;auto trim mode
+atumd;auto tune mode
+atlmd;auto level mode
+atren;auto trim enabled
+atuen;auto tune enabled
+atlen;auto level enabled
+atr;auto trim
+atu;auto tune
+atl;auto level
+battlo;battery low
+battcr;battery critical
+pan;pan
+panmd;pan mode
+pt;pan tilt
+ptmd;pan tilt mode
+al;auto launch
+almd;auto launch mode
+crs;course lock
+crsmd;course lock mode
+eng;engaged
+diseng;disengaged
+flup;flaps up
+fldn;flaps down
+fl1;flaps 1
+fl2;flaps 2
+fl3;flaps 3
+gpsfix;gps fixed
+gpsrdy;gps ready
+ledon;lights on
+ledoff;lights off
+battnf;battery not full
+50hz;50 hertz
+150hz;150 hertz
+rssilo;rssi low
+rssicr;rssi critical
+tunmd;tuning mode

@@ -1,0 +1,19 @@
+{
+  "name": "lexi-soundpack",
+  "version": "1.0.0",
+  "description": "A customizable sound pack for OpenTx",
+  "main": "main.js",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^3.1.1",
+    "csvtojson": "^2.0.10",
+    "dotenv": "^9.0.2",
+    "line-reader": "^0.4.0",
+    "lodash": "^4.17.20",
+    "wavefile": "^11.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FinalFrag",
+  "license": "GPL-3.0"
+}

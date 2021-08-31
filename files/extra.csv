@@ -29,6 +29,8 @@ airmd;air mode
 airon;air mode: on
 airoff;air mode: off
 hh;heading hold
+los;l o s
+bb;blackbox
 bbon;blackbox logging: on
 bboff;blackbox logging: off
 trtl;turtle

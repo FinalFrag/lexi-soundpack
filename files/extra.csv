@@ -74,3 +74,6 @@ battnf;battery not full
 rssilo;rssi low
 rssicr;rssi critical
 tunmd;tuning mode
+taximd;taxi mode
+varon;vario, on
+varoff;vario, off

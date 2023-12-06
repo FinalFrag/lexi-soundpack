@@ -89,3 +89,24 @@ osdon;osd, on
 osdoff;osd, off
 osdrdr;osd radar
 radar;radar
+tkof;takeoff
+tkofmd;takeoff mode
+land;land
+landmd;land mode
+landng;landing
+lndgmd;landing mode
+taxi;taxi
+fbwa;fly by wire A
+fbwamd;fly by wire A, mode
+fbwb;fly by wire B
+fbwbmd;fly by wire B mode
+stab;stabilize
+stabmd;stabilize mode
+trn;training
+trnmd;training mode
+crcl;circle
+crclmd;circle mode
+guid;guided
+guidmd;guided mode
+trml;thermal
+trmlmd;thermal mode

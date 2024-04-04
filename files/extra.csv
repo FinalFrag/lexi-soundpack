@@ -110,3 +110,17 @@ guid;guided
 guidmd;guided mode
 trml;thermal
 trmlmd;thermal mode
+qd;quad
+qdmd;quad mode
+vtl;vee-tol
+vtlmd;vee-tol mode
+trns;transition
+trnsmd;transition mode
+arp;airplane
+arpmd;airplane mode
+plan;plane
+planmd;plane mode
+ahld;angle hold
+ahldmd;angle hold mode
+hvr;hover
+hvrmd;hover mode
